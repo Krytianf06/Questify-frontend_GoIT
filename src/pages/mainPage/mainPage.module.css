@@ -1,0 +1,49 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 0;
+  margin: 0;
+}
+
+ul,
+ol {
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #F2F3F7;
+}
+
+a {
+  text-decoration: none;
+}
+
+.homepage {
+  background-color: #F2F3F7;
+  height: 100vh;
+}
+
+.container{
+  padding-left: 21px;
+  padding-left: 21px;
+}
+
+.cards__wrapper {
+  margin-left: 20px;
+  margin-right: 20px;
+  display: flex;
+  color: #282828;
+}
+.cards__wrapper p {
+  text-transform: uppercase;
+}
+
